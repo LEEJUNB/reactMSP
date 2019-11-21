@@ -1,6 +1,6 @@
 # NomNomNom
 
-Learning React & ES6
+Learning React & ES6 by building a Movie Discovery App.
 
 ## Screens
 
