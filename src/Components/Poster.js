@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const Container = styled.div`
-  font-size: 12px;
+  font-size: 13px;
 `;
 
 const Image = styled.div`
@@ -61,7 +61,7 @@ const Poster = ({ id, imageUrl, title, rating, year, isMovie = false }) => (
 
         <Rating>
           <span role="img" aria-label="rating">
-            ⭐️
+           ✔️❤️
           </span>{" "}
           {rating}/10
         </Rating>
